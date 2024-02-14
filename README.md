@@ -43,7 +43,7 @@
 </div>
 
 ###
-<!--
+
 <h3 align="left">My Stats</h3>
 
 ###
@@ -53,7 +53,7 @@
 </div>
 
 ###
--->
+
 <!--
 **Noor-Ul-Imaan/Noor-Ul-Imaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
